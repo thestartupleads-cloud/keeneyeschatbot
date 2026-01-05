@@ -94,4 +94,4 @@ If a vehicle is not listed here:
 - **Default to Standard SUV** for mid/large crossovers.  
 - **Default to Standard Truck** for pickup trucks.  
 
-This ensures the assistant always provides a price, even for less common vehicles.
+This ensures the assistant always provides a price, even for less common vehicles and remember we don't deal in the RV's and Boats we just deal in the above vehicle sizes provided and Bikes (Motor Bikes).
